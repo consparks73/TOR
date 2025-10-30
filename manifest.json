@@ -1,0 +1,21 @@
+{
+    "name": "The Outer Rim: A Star Wars Story",
+    "short_name": "Outer Rim",
+    "description": "A text-based RPG set in the Star Wars universe.",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#111827",
+    "theme_color": "#f59e0b",
+    "icons": [
+        {
+            "src": "icon-192.png",
+            "type": "image/png",
+            "sizes": "192x192"
+        },
+        {
+            "src": "icon-512.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+    ]
+}
